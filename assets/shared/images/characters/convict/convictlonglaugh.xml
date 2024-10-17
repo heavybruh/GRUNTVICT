@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="convictlonglaugh.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LONG LAUGHT POSE instance 10000" x="25" y="25" width="919" height="1110" frameX="0" frameY="0" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10001" x="25" y="25" width="919" height="1110" frameX="0" frameY="0" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10002" x="964" y="25" width="907" height="1095" frameX="-29" frameY="-15" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10003" x="964" y="25" width="907" height="1095" frameX="-29" frameY="-15" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10004" x="1891" y="25" width="917" height="1096" frameX="-29" frameY="-14" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10005" x="1891" y="25" width="917" height="1096" frameX="-29" frameY="-14" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10006" x="2828" y="25" width="908" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10007" x="2828" y="25" width="908" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10008" x="25" y="1155" width="898" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10009" x="25" y="1155" width="898" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10010" x="943" y="1155" width="898" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10011" x="943" y="1155" width="898" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10012" x="1861" y="1155" width="898" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+	<SubTexture name="LONG LAUGHT POSE instance 10013" x="1861" y="1155" width="898" height="1097" frameX="-29" frameY="-13" frameWidth="946" frameHeight="1110"/>
+</TextureAtlas>

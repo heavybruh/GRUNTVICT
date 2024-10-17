@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gorevict50percentshaded.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down gore instance 10000" x="25" y="25" width="522" height="382" frameX="-105" frameY="-279" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10001" x="567" y="25" width="522" height="524" frameX="-105" frameY="-137" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10002" x="1109" y="25" width="527" height="524" frameX="-97" frameY="-137" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10003" x="1656" y="25" width="653" height="622" frameX="-26" frameY="-55" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10004" x="2329" y="25" width="653" height="622" frameX="-26" frameY="-55" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10005" x="3002" y="25" width="646" height="651" frameX="0" frameY="-34" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10006" x="3668" y="25" width="646" height="651" frameX="0" frameY="-34" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10007" x="4334" y="25" width="719" height="685" frameX="-18" frameY="0" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10008" x="5073" y="25" width="496" height="368" frameX="-120" frameY="-293" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10009" x="5589" y="25" width="493" height="369" frameX="-123" frameY="-292" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10010" x="6102" y="25" width="494" height="370" frameX="-122" frameY="-291" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="down gore instance 10011" x="6616" y="25" width="494" height="370" frameX="-122" frameY="-291" frameWidth="737" frameHeight="685"/>
+	<SubTexture name="idle instance 10000" x="7130" y="25" width="242" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10001" x="7392" y="25" width="244" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10002" x="7392" y="25" width="244" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10003" x="7656" y="25" width="236" height="534" frameX="-2" frameY="-6" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10004" x="7656" y="25" width="236" height="534" frameX="-2" frameY="-6" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10005" x="7912" y="25" width="237" height="534" frameX="-2" frameY="-6" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10006" x="25" y="730" width="237" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10007" x="282" y="730" width="239" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10008" x="541" y="730" width="239" height="539" frameX="-2" frameY="-1" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10009" x="800" y="730" width="244" height="539" frameX="-2" frameY="-1" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10010" x="1064" y="730" width="244" height="540" frameX="-2" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10011" x="1328" y="730" width="244" height="540" frameX="-2" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10012" x="1592" y="730" width="245" height="540" frameX="-1" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10013" x="1857" y="730" width="245" height="540" frameX="-1" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10014" x="1857" y="730" width="245" height="540" frameX="-1" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10015" x="2122" y="730" width="245" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10016" x="2122" y="730" width="245" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10017" x="2387" y="730" width="244" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10018" x="2651" y="730" width="244" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10019" x="2915" y="730" width="246" height="540"/>
+	<SubTexture name="idle instance 10020" x="2915" y="730" width="246" height="540"/>
+	<SubTexture name="idle instance 10021" x="3181" y="730" width="238" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10022" x="3181" y="730" width="238" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10023" x="3439" y="730" width="239" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10024" x="3698" y="730" width="239" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10025" x="3957" y="730" width="241" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10026" x="3957" y="730" width="241" height="540" frameX="0" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10027" x="4218" y="730" width="245" height="540" frameX="-1" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10028" x="4218" y="730" width="245" height="540" frameX="-1" frameY="0" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10029" x="4483" y="730" width="244" height="539" frameX="-2" frameY="-1" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10030" x="4483" y="730" width="244" height="539" frameX="-2" frameY="-1" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10031" x="4747" y="730" width="244" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10032" x="4747" y="730" width="244" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10033" x="5011" y="730" width="243" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10034" x="5274" y="730" width="243" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="idle instance 10035" x="5537" y="730" width="242" height="538" frameX="-2" frameY="-2" frameWidth="246" frameHeight="540"/>
+	<SubTexture name="left pose instance 10000" x="5799" y="730" width="469" height="501" frameX="-22" frameY="-157" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10001" x="6288" y="730" width="592" height="609" frameX="-8" frameY="-49" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10002" x="6900" y="730" width="600" height="609" frameX="0" frameY="-49" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10003" x="25" y="1359" width="711" height="658" frameX="-10" frameY="0" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10004" x="756" y="1359" width="711" height="658" frameX="-10" frameY="0" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10005" x="1487" y="1359" width="726" height="619" frameX="-5" frameY="-60" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10006" x="2233" y="1359" width="726" height="619" frameX="-5" frameY="-60" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10007" x="2979" y="1359" width="722" height="616" frameX="-9" frameY="-66" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10008" x="3721" y="1359" width="722" height="616" frameX="-9" frameY="-66" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10009" x="4463" y="1359" width="480" height="493" frameX="-9" frameY="-165" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10010" x="4963" y="1359" width="480" height="493" frameX="-9" frameY="-165" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10011" x="4963" y="1359" width="480" height="493" frameX="-9" frameY="-165" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10012" x="5463" y="1359" width="480" height="493" frameX="-9" frameY="-165" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="left pose instance 10013" x="5463" y="1359" width="480" height="493" frameX="-9" frameY="-165" frameWidth="731" frameHeight="682"/>
+	<SubTexture name="right pose instance 10000" x="5963" y="1359" width="715" height="668" frameX="-38" frameY="0" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10001" x="6698" y="1359" width="706" height="646" frameX="-47" frameY="-22" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10002" x="7424" y="1359" width="693" height="648" frameX="-47" frameY="-22" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10003" x="25" y="2047" width="654" height="572" frameX="-86" frameY="-78" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10004" x="699" y="2047" width="688" height="581" frameX="-30" frameY="-69" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10005" x="1407" y="2047" width="688" height="574" frameX="-30" frameY="-78" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10006" x="2115" y="2047" width="717" height="573" frameX="0" frameY="-79" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10007" x="2852" y="2047" width="624" height="575" frameX="-93" frameY="-79" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10008" x="3496" y="2047" width="625" height="575" frameX="-93" frameY="-79" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10009" x="4141" y="2047" width="635" height="576" frameX="-83" frameY="-79" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10010" x="4796" y="2047" width="624" height="576" frameX="-94" frameY="-79" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="right pose instance 10011" x="5440" y="2047" width="624" height="576" frameX="-94" frameY="-79" frameWidth="753" frameHeight="670"/>
+	<SubTexture name="up pose instance 10000" x="6084" y="2047" width="448" height="805" frameX="-46" frameY="-6" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10001" x="6552" y="2047" width="456" height="805" frameX="-38" frameY="-6" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10002" x="7028" y="2047" width="451" height="805" frameX="-38" frameY="-6" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10003" x="7499" y="2047" width="532" height="811" frameX="-17" frameY="0" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10004" x="25" y="2878" width="532" height="801" frameX="-17" frameY="-10" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10005" x="577" y="2878" width="592" height="777" frameX="0" frameY="-44" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10006" x="1189" y="2878" width="592" height="760" frameX="0" frameY="-61" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10007" x="1801" y="2878" width="592" height="737" frameX="0" frameY="-84" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10008" x="2413" y="2878" width="519" height="746" frameX="-30" frameY="-71" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10009" x="2952" y="2878" width="463" height="740" frameX="-43" frameY="-71" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10010" x="3435" y="2878" width="455" height="732" frameX="-48" frameY="-79" frameWidth="592" frameHeight="821"/>
+	<SubTexture name="up pose instance 10011" x="3435" y="2878" width="455" height="732" frameX="-48" frameY="-79" frameWidth="592" frameHeight="821"/>
+</TextureAtlas>

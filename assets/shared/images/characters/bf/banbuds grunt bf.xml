@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF1 Spritesheet.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF1 Down0000" x="4" y="4" width="347" height="325" frameX="0" frameY="-14" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0001" x="4" y="4" width="347" height="325" frameX="0" frameY="-14" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0002" x="355" y="4" width="313" height="334" frameX="-2" frameY="-6" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0003" x="355" y="4" width="313" height="334" frameX="-2" frameY="-6" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0004" x="672" y="4" width="302" height="336" frameX="-3" frameY="-4" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0005" x="672" y="4" width="302" height="336" frameX="-3" frameY="-4" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0006" x="978" y="4" width="294" height="340" frameX="-3" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0007" x="978" y="4" width="294" height="340" frameX="-3" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0008" x="1276" y="4" width="293" height="340" frameX="-2" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0009" x="1276" y="4" width="293" height="340" frameX="-2" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0010" x="1573" y="4" width="293" height="341" frameX="-2" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0011" x="1573" y="4" width="293" height="341" frameX="-2" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0012" x="1870" y="4" width="294" height="340" frameX="-1" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0013" x="1870" y="4" width="294" height="340" frameX="-1" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0014" x="1276" y="4" width="293" height="340" frameX="-2" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0015" x="1276" y="4" width="293" height="340" frameX="-2" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0016" x="1573" y="4" width="293" height="341" frameX="-2" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0017" x="1573" y="4" width="293" height="341" frameX="-2" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down0018" x="1870" y="4" width="294" height="340" frameX="-1" frameY="-1" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="BF1 Down Miss0000" x="2168" y="4" width="347" height="325" frameX="-136" frameY="-249" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0001" x="2519" y="4" width="363" height="237" frameX="-113" frameY="-342" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0002" x="2519" y="4" width="363" height="237" frameX="-113" frameY="-342" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0003" x="2886" y="4" width="461" height="575" frameX="0" frameY="0" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0004" x="2886" y="4" width="461" height="575" frameX="0" frameY="0" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0005" x="3351" y="4" width="289" height="420" frameX="-114" frameY="-155" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0006" x="3351" y="4" width="289" height="420" frameX="-114" frameY="-155" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Down Miss0007" x="3207" y="2507" width="315" height="396" frameX="-110" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Down Miss0008" x="3207" y="2507" width="315" height="396" frameX="-110" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Down Miss0009" x="3526" y="2507" width="314" height="396" frameX="-111" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Down Miss0010" x="3526" y="2507" width="314" height="396" frameX="-111" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Down Miss0011" x="4" y="3087" width="314" height="396" frameX="-111" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Down Miss0012" x="4" y="3087" width="314" height="396" frameX="-111" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Idle0000" x="3644" y="4" width="328" height="328" frameX="0" frameY="-84" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0001" x="3644" y="4" width="328" height="328" frameX="0" frameY="-84" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0002" x="4" y="583" width="323" height="331" frameX="-2" frameY="-80" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0003" x="4" y="583" width="323" height="331" frameX="-2" frameY="-80" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0004" x="331" y="583" width="323" height="329" frameX="-2" frameY="-81" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0005" x="331" y="583" width="323" height="329" frameX="-2" frameY="-81" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0006" x="658" y="583" width="321" height="334" frameX="-5" frameY="-76" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0007" x="658" y="583" width="321" height="334" frameX="-5" frameY="-76" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0008" x="983" y="583" width="318" height="359" frameX="-6" frameY="-51" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0009" x="983" y="583" width="318" height="359" frameX="-6" frameY="-51" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0010" x="1305" y="583" width="356" height="406" frameX="-5" frameY="-3" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0011" x="1305" y="583" width="356" height="406" frameX="-5" frameY="-3" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0012" x="1665" y="583" width="359" height="410" frameX="-5" frameY="0" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0013" x="1665" y="583" width="359" height="410" frameX="-5" frameY="0" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0014" x="2028" y="583" width="360" height="410" frameX="-4" frameY="0" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0015" x="2028" y="583" width="360" height="410" frameX="-4" frameY="0" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0016" x="2392" y="583" width="356" height="406" frameX="-5" frameY="-3" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0017" x="2392" y="583" width="356" height="406" frameX="-5" frameY="-3" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0018" x="2752" y="583" width="323" height="334" frameX="-3" frameY="-76" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Idle0019" x="2752" y="583" width="323" height="334" frameX="-3" frameY="-76" frameWidth="364" frameHeight="412"/>
+	<SubTexture name="BF1 Left0000" x="3079" y="583" width="526" height="424" frameX="0" frameY="0" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0001" x="3079" y="583" width="526" height="424" frameX="0" frameY="0" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0002" x="3609" y="583" width="458" height="415" frameX="-68" frameY="-9" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0003" x="3609" y="583" width="458" height="415" frameX="-68" frameY="-9" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0004" x="4" y="1011" width="440" height="409" frameX="-85" frameY="-16" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0005" x="4" y="1011" width="440" height="409" frameX="-85" frameY="-16" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0006" x="448" y="1011" width="435" height="403" frameX="-90" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0007" x="448" y="1011" width="435" height="403" frameX="-90" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0008" x="887" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0009" x="887" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0010" x="1325" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0011" x="1325" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0012" x="1763" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0013" x="1763" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0014" x="887" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0015" x="887" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0016" x="2201" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0017" x="2201" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left0018" x="2639" y="1011" width="434" height="403" frameX="-91" frameY="-21" frameWidth="526" frameHeight="425"/>
+	<SubTexture name="BF1 Left Miss0000" x="3077" y="1011" width="526" height="424" frameX="-168" frameY="-105" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Left Miss0001" x="4" y="1439" width="690" height="388" frameX="0" frameY="-141" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Left Miss0002" x="4" y="1439" width="690" height="388" frameX="0" frameY="-141" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Left Miss0003" x="698" y="1439" width="659" height="530" frameX="-454" frameY="0" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Left Miss0004" x="698" y="1439" width="659" height="530" frameX="-454" frameY="0" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Left Miss0005" x="1361" y="1439" width="295" height="420" frameX="-400" frameY="-109" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Left Miss0006" x="3351" y="4" width="289" height="420" frameX="-419" frameY="-109" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Left Miss0007" x="3207" y="2507" width="315" height="396" frameX="-415" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Left Miss0008" x="3207" y="2507" width="315" height="396" frameX="-415" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Left Miss0009" x="3526" y="2507" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Left Miss0010" x="3526" y="2507" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Left Miss0011" x="4" y="3087" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Left Miss0012" x="4" y="3087" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Right0000" x="1660" y="1439" width="458" height="417" frameX="-38" frameY="0" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0001" x="1660" y="1439" width="458" height="417" frameX="-38" frameY="0" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0002" x="2122" y="1439" width="443" height="415" frameX="-24" frameY="-2" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0003" x="2122" y="1439" width="443" height="415" frameX="-24" frameY="-2" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0004" x="2569" y="1439" width="439" height="406" frameX="-5" frameY="-5" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0005" x="2569" y="1439" width="439" height="406" frameX="-5" frameY="-5" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0006" x="3012" y="1439" width="436" height="402" frameX="-1" frameY="-7" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0007" x="3012" y="1439" width="436" height="402" frameX="-1" frameY="-7" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0008" x="3452" y="1439" width="435" height="401" frameX="0" frameY="-7" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0009" x="3452" y="1439" width="435" height="401" frameX="0" frameY="-7" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0010" x="4" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0011" x="4" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0012" x="443" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0013" x="443" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0014" x="3452" y="1439" width="435" height="401" frameX="0" frameY="-7" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0015" x="3452" y="1439" width="435" height="401" frameX="0" frameY="-7" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0016" x="4" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0017" x="4" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right0018" x="443" y="1973" width="435" height="400" frameX="0" frameY="-8" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right Miss0000" x="1660" y="1439" width="458" height="417" frameX="-455" frameY="-121" frameWidth="496" frameHeight="417"/>
+	<SubTexture name="BF1 Right Miss0001" x="882" y="1973" width="659" height="530" frameX="-454" frameY="0" frameWidth="1113" frameHeight="538"/>
+	<SubTexture name="BF1 Right Miss0002" x="882" y="1973" width="659" height="530" frameX="-454" frameY="0" frameWidth="1113" frameHeight="538"/>
+	<SubTexture name="BF1 Right Miss0003" x="4" y="1439" width="690" height="388" frameX="0" frameY="-141" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Right Miss0004" x="4" y="1439" width="690" height="388" frameX="0" frameY="-141" frameWidth="1113" frameHeight="531"/>
+	<SubTexture name="BF1 Right Miss0005" x="1545" y="1973" width="284" height="420" frameX="-439" frameY="-109" frameWidth="1113" frameHeight="538"/>
+	<SubTexture name="BF1 Right Miss0006" x="3351" y="4" width="289" height="420" frameX="-419" frameY="-109" frameWidth="483" frameHeight="579"/>
+	<SubTexture name="BF1 Right Miss0007" x="3207" y="2507" width="315" height="396" frameX="-415" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Right Miss0008" x="3207" y="2507" width="315" height="396" frameX="-415" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Right Miss0009" x="3526" y="2507" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Right Miss0010" x="3526" y="2507" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Right Miss0011" x="4" y="3087" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Right Miss0012" x="4" y="3087" width="314" height="396" frameX="-416" frameY="-135" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up0000" x="1833" y="1973" width="368" height="472" frameX="-1" frameY="0" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0001" x="1833" y="1973" width="368" height="472" frameX="-1" frameY="0" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0002" x="2205" y="1973" width="329" height="431" frameX="0" frameY="-41" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0003" x="2205" y="1973" width="329" height="431" frameX="0" frameY="-41" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0004" x="2538" y="1973" width="316" height="418" frameX="-5" frameY="-52" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0005" x="2538" y="1973" width="316" height="418" frameX="-5" frameY="-52" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0006" x="2858" y="1973" width="309" height="417" frameX="-8" frameY="-54" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0007" x="2858" y="1973" width="309" height="417" frameX="-8" frameY="-54" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0008" x="3171" y="1973" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0009" x="3171" y="1973" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0010" x="3481" y="1973" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0011" x="3481" y="1973" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0012" x="4" y="2507" width="306" height="415" frameX="-9" frameY="-55" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0013" x="4" y="2507" width="306" height="415" frameX="-9" frameY="-55" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0014" x="314" y="2507" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0015" x="314" y="2507" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0016" x="624" y="2507" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0017" x="624" y="2507" width="306" height="414" frameX="-9" frameY="-56" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up0018" x="934" y="2507" width="306" height="415" frameX="-9" frameY="-55" frameWidth="369" frameHeight="472"/>
+	<SubTexture name="BF1 Up Miss0000" x="1244" y="2507" width="377" height="472" frameX="-312" frameY="-101" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0001" x="1625" y="2507" width="701" height="576" frameX="-351" frameY="0" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0002" x="1625" y="2507" width="701" height="576" frameX="-351" frameY="0" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0003" x="2330" y="2507" width="588" height="271" frameX="0" frameY="-306" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0004" x="2330" y="2507" width="588" height="271" frameX="0" frameY="-306" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0005" x="2922" y="2507" width="281" height="420" frameX="-347" frameY="-157" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0006" x="2922" y="2507" width="281" height="420" frameX="-347" frameY="-157" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0007" x="3207" y="2507" width="315" height="396" frameX="-313" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0008" x="3207" y="2507" width="315" height="396" frameX="-313" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0009" x="3526" y="2507" width="314" height="396" frameX="-314" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0010" x="3526" y="2507" width="314" height="396" frameX="-314" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0011" x="4" y="3087" width="314" height="396" frameX="-314" frameY="-181" frameWidth="1052" frameHeight="577"/>
+	<SubTexture name="BF1 Up Miss0012" x="4" y="3087" width="314" height="396" frameX="-314" frameY="-181" frameWidth="1052" frameHeight="577"/>
+</TextureAtlas>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmen.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Henchmen cheer instance 10000" x="25" y="25" width="285" height="550" frameX="0" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10001" x="25" y="25" width="285" height="550" frameX="0" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10002" x="315" y="25" width="279" height="551" frameX="-3" frameY="0" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10003" x="315" y="25" width="279" height="551" frameX="-3" frameY="0" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10004" x="599" y="25" width="282" height="551" frameX="-2" frameY="0" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10005" x="599" y="25" width="282" height="551" frameX="-2" frameY="0" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10006" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10007" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10008" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10009" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10010" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10011" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10012" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen cheer instance 10013" x="886" y="25" width="282" height="550" frameX="-2" frameY="-1" frameWidth="285" frameHeight="551"/>
+	<SubTexture name="Henchmen instance 10000" x="1173" y="25" width="284" height="558" frameX="0" frameY="-20" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10001" x="1173" y="25" width="284" height="558" frameX="0" frameY="-20" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10002" x="1462" y="25" width="277" height="561" frameX="-5" frameY="-17" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10003" x="1462" y="25" width="277" height="561" frameX="-5" frameY="-17" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10004" x="1744" y="25" width="273" height="568" frameX="-8" frameY="-10" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10005" x="1744" y="25" width="273" height="568" frameX="-8" frameY="-10" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10006" x="25" y="598" width="274" height="575" frameX="-8" frameY="-3" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10007" x="25" y="598" width="274" height="575" frameX="-8" frameY="-3" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10008" x="304" y="598" width="274" height="578" frameX="-8" frameY="0" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10009" x="304" y="598" width="274" height="578" frameX="-8" frameY="0" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10010" x="304" y="598" width="274" height="578" frameX="-8" frameY="0" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10011" x="304" y="598" width="274" height="578" frameX="-8" frameY="0" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10012" x="304" y="598" width="274" height="578" frameX="-8" frameY="0" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen instance 10013" x="304" y="598" width="274" height="578" frameX="-8" frameY="0" frameWidth="284" frameHeight="578"/>
+	<SubTexture name="Henchmen sad instance 10000" x="583" y="598" width="285" height="563" frameX="0" frameY="-8" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10001" x="583" y="598" width="285" height="563" frameX="0" frameY="-8" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10002" x="873" y="598" width="279" height="568" frameX="-3" frameY="-3" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10003" x="873" y="598" width="279" height="568" frameX="-3" frameY="-3" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10004" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10005" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10006" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10007" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10008" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10009" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10010" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10011" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10012" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+	<SubTexture name="Henchmen sad instance 10013" x="1157" y="598" width="276" height="571" frameX="-5" frameY="0" frameWidth="285" frameHeight="571"/>
+</TextureAtlas>

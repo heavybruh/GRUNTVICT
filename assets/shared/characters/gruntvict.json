@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftC",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-82
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownC",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpC",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightC",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleC",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/convict/Gruntvict",
+	"position": [
+		-170,
+		50
+	],
+	"healthicon": "convict",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		10,
+		52
+	],
+	"camera_position": [
+		190,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

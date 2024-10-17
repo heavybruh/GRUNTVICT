@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmen scared.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Henchmen_Scared ALT instance 10000" x="25" y="25" width="410" height="663" frameX="0" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10001" x="455" y="25" width="408" height="663" frameX="0" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10002" x="883" y="25" width="405" height="663" frameX="-3" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10003" x="1308" y="25" width="404" height="663" frameX="-3" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10004" x="1732" y="25" width="400" height="663" frameX="-4" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10005" x="2152" y="25" width="399" height="663" frameX="-4" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10006" x="2571" y="25" width="400" height="663" frameX="-5" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10007" x="2571" y="25" width="400" height="663" frameX="-5" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10008" x="2991" y="25" width="402" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10009" x="2991" y="25" width="402" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10010" x="3413" y="25" width="404" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10011" x="3413" y="25" width="404" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10012" x="25" y="708" width="405" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared ALT instance 10013" x="25" y="708" width="405" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10000" x="450" y="708" width="410" height="663" frameX="0" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10001" x="450" y="708" width="410" height="663" frameX="0" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10002" x="880" y="708" width="403" height="663" frameX="-3" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10003" x="880" y="708" width="403" height="663" frameX="-3" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10004" x="1303" y="708" width="399" height="663" frameX="-4" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10005" x="1303" y="708" width="399" height="663" frameX="-4" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10006" x="1722" y="708" width="399" height="663" frameX="-5" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10007" x="1722" y="708" width="399" height="663" frameX="-5" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10008" x="2141" y="708" width="402" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10009" x="2141" y="708" width="402" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10010" x="2563" y="708" width="404" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10011" x="2563" y="708" width="404" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10012" x="2987" y="708" width="405" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+	<SubTexture name="Henchmen_Scared instance 10013" x="2987" y="708" width="405" height="663" frameX="-6" frameY="0" frameWidth="411" frameHeight="663"/>
+</TextureAtlas>

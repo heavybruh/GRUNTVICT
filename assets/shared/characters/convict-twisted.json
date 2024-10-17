@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				359,
+				108
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nene",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				265
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Alucard",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				660,
+				340
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cyclops",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				233
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hanzo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/convict/twistedconvict",
+	"position": [
+		-70,
+		-330
+	],
+	"healthicon": "Convict",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		0,
+		23
+	],
+	"camera_position": [
+		-390,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

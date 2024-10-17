@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Deathscreenplaceholder.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Placeholder deathscreen0000" x="20" y="20" width="1496" height="962" frameX="0" frameY="0" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0001" x="1536" y="20" width="1497" height="914" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0002" x="3053" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0003" x="4588" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0004" x="6123" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0005" x="20" y="20" width="1496" height="962" frameX="0" frameY="0" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0006" x="1536" y="20" width="1497" height="914" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0007" x="3053" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0008" x="4588" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0009" x="6123" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0010" x="20" y="20" width="1496" height="962" frameX="0" frameY="0" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0011" x="1536" y="20" width="1497" height="914" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0012" x="3053" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0013" x="4588" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0014" x="6123" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0015" x="20" y="20" width="1496" height="962" frameX="0" frameY="0" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0016" x="1536" y="20" width="1497" height="914" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0017" x="3053" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0018" x="4588" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0019" x="6123" y="20" width="1515" height="913" frameX="0" frameY="-16" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0020" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0021" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0022" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0023" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0024" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0025" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0026" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0027" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0028" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0029" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0030" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0031" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0032" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0033" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0034" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0035" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0036" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0037" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0038" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0039" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0040" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0041" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0042" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0043" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0044" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0045" x="20" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0046" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0047" x="1536" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0048" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0049" x="3052" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0050" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+	<SubTexture name="Placeholder deathscreen0051" x="4568" y="1002" width="1496" height="921" frameX="0" frameY="-17" frameWidth="1515" frameHeight="962"/>
+</TextureAtlas>

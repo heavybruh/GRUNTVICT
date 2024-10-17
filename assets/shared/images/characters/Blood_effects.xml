@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Blood_effects.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Splat 10000" x="10" y="10" width="183" height="335" frameX="0" frameY="-29" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10001" x="10" y="10" width="183" height="335" frameX="0" frameY="-29" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10002" x="203" y="10" width="240" height="442" frameX="-49" frameY="-1" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10003" x="203" y="10" width="240" height="442" frameX="-49" frameY="-1" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10004" x="453" y="10" width="283" height="466" frameX="-50" frameY="0" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10005" x="453" y="10" width="283" height="466" frameX="-50" frameY="0" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10006" x="746" y="10" width="294" height="450" frameX="-47" frameY="-19" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10007" x="1050" y="10" width="0" height="0" frameX="-19" frameY="-72" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10008" x="1050" y="10" width="0" height="0" frameX="-19" frameY="-72" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 10009" x="1050" y="10" width="0" height="0" frameX="-19" frameY="-72" frameWidth="341" frameHeight="469"/>
+	<SubTexture name="Splat 20000" x="1060" y="10" width="432" height="214" frameX="-125" frameY="-43" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20001" x="1060" y="10" width="432" height="214" frameX="-125" frameY="-43" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20002" x="1502" y="10" width="598" height="290" frameX="-50" frameY="0" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20003" x="1502" y="10" width="598" height="290" frameX="-50" frameY="0" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20004" x="2110" y="10" width="641" height="305" frameX="-18" frameY="-6" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20005" x="2110" y="10" width="641" height="305" frameX="-18" frameY="-6" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20006" x="2761" y="10" width="668" height="306" frameX="0" frameY="-8" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20007" x="3439" y="10" width="0" height="0" frameX="-128" frameY="-47" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20008" x="3439" y="10" width="0" height="0" frameX="-128" frameY="-47" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 20009" x="3439" y="10" width="0" height="0" frameX="-128" frameY="-47" frameWidth="668" frameHeight="314"/>
+	<SubTexture name="Splat 30000" x="3449" y="10" width="294" height="355" frameX="-19" frameY="-19" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30001" x="3449" y="10" width="294" height="355" frameX="-19" frameY="-19" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30002" x="10" y="486" width="376" height="419" frameX="-18" frameY="0" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30003" x="10" y="486" width="376" height="419" frameX="-18" frameY="0" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30004" x="396" y="486" width="418" height="386" frameX="-3" frameY="-33" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30005" x="396" y="486" width="418" height="386" frameX="-3" frameY="-33" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30006" x="824" y="486" width="432" height="362" frameX="0" frameY="-59" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30007" x="1266" y="486" width="0" height="0" frameX="-21" frameY="-19" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30008" x="1266" y="486" width="0" height="0" frameX="-21" frameY="-19" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 30009" x="1266" y="486" width="0" height="0" frameX="-21" frameY="-19" frameWidth="432" frameHeight="421"/>
+	<SubTexture name="Splat 40000" x="1276" y="486" width="445" height="293" frameX="-246" frameY="-178" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40001" x="1276" y="486" width="445" height="293" frameX="-246" frameY="-178" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40002" x="1731" y="486" width="711" height="430" frameX="-110" frameY="-74" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40003" x="1731" y="486" width="711" height="430" frameX="-110" frameY="-74" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40004" x="2452" y="486" width="829" height="517" frameX="-7" frameY="-8" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40005" x="2452" y="486" width="829" height="517" frameX="-7" frameY="-8" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40006" x="10" y="1013" width="870" height="544"/>
+	<SubTexture name="Splat 40007" x="890" y="1013" width="0" height="0" frameX="-252" frameY="-201" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40008" x="890" y="1013" width="0" height="0" frameX="-252" frameY="-201" frameWidth="870" frameHeight="544"/>
+	<SubTexture name="Splat 40009" x="890" y="1013" width="0" height="0" frameX="-252" frameY="-201" frameWidth="870" frameHeight="544"/>
+</TextureAtlas>
